@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    color: black;
+    background-color: #ddbcdb;
+    font-size: 25px;
+}
+  .parrafo
+   {background-color: papayawhip;
+    color: black;
+    text-align: center;
+   }
+   .titulo
+   {
+    background-color: teal;
+    color: white;
+    text-align: center;
+   }
+   p
+   {
+    background-color: coral;
+    color: blue;
+    text-align: right;
+    font-size: 20px;
+}
+p.🍔{
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
